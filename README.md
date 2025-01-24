@@ -18,9 +18,9 @@ Welcome to my portfolio! I'm Rahab, a **Junior Data Analyst** passionate about e
 - **Description:** A predictive model for customer churn using Python and SQL.
 
 ## 📬 Contact
-- **Email:** rahab@example.com
-- **GitHub:** [yourgithub](https://github.com/yourgithub)
-- **LinkedIn:** [yourlinkedin](https://linkedin.com/in/yourlinkedin)
+- **Email:** hobbaa185@gmail.com
+- **GitHub:** [yourgithub](https://github.com/Hobaa97)
+- **LinkedIn:** [yourlinkedin](https://linkedin.com/in/rehab-abdalmoniem)
 
 ---
 💡 Feel free to check out my projects and reach out for collaboration or job opportunities!
