@@ -1,5 +1,5 @@
 # Rahab's Portfolio
-
+![Profile Picture](profile-pic.jpg)
 Welcome to my portfolio! I'm Rahab, a **Junior Data Analyst** passionate about extracting insights from data and creating meaningful visualizations.
 
 ## 🚀 About Me
