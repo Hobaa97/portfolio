@@ -1,5 +1,5 @@
 # Rahab's Portfolio
-<img src="profile-pic.jpg" alt="Profile Picture" style="border-radius: 50%; width: 150px;">
+<img src="profile-pic.jpg.png" alt="Profile Picture" style="border-radius: 50%; width: 150px;">
 Welcome to my portfolio! I'm Rahab, a **Junior Data Analyst** passionate about extracting insights from data and creating meaningful visualizations.
 
 ## 🚀 About Me
