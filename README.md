@@ -1,10 +1,26 @@
-# Data Analyst
+# Rahab's Portfolio
 
-## Education
-Statstic, Bachelor
+Welcome to my portfolio! I'm Rahab, a **Junior Data Analyst** passionate about extracting insights from data and creating meaningful visualizations.
 
-## Work Experience
-Data Analyst @ Freelancer
+## 🚀 About Me
+- 🎯 Looking for opportunities in **Saudi Arabia**.
+- 📊 Skilled in **Python, SQL, Excel, Power BI, Tableau**.
+- 🔍 Interested in **Data Cleaning, Data Visualization, and Machine Learning Basics**.
 
-## Projects
-Marketing Campaign Analysis
+## 📂 Projects
+
+### [📌 Sales Analysis Dashboard](https://github.com/yourgithub/sales-analysis)
+- **Tools:** Power BI, SQL
+- **Description:** A Power BI dashboard analyzing sales trends and customer behavior.
+
+### [📌 Customer Churn Prediction](https://github.com/yourgithub/churn-prediction)
+- **Tools:** Python, SQL, Machine Learning
+- **Description:** A predictive model for customer churn using Python and SQL.
+
+## 📬 Contact
+- **Email:** rahab@example.com
+- **GitHub:** [yourgithub](https://github.com/yourgithub)
+- **LinkedIn:** [yourlinkedin](https://linkedin.com/in/yourlinkedin)
+
+---
+💡 Feel free to check out my projects and reach out for collaboration or job opportunities!
